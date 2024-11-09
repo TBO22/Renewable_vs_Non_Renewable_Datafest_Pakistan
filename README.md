@@ -52,16 +52,28 @@ To predict solar power generation, we trained a SARIMA model using historical da
 <h3>Dashboards</h3>
 
 <ul>
+  <li><strong>Starting Page:</strong>
+  <br>
+    <br><img src="images/dashboard0.png" alt="Starting Page" width="600">
+  </li>
   <li><strong>Dashboard 1: Overview - Renewable vs. Non-Renewable Energy</strong>
-    <br>Visualizes the market share and energy production of renewable vs. non-renewable sources from 2012 to 2024, showing the gradual shift towards clean energy. Along with focus exclusively on renewable sources, breaking down solar, wind, and hydro contributions to Pakistan’s energy landscape.
+    <br>Visualizes the market share and energy production of renewable vs. non-renewable sources from 2012 to 2024, showing the gradual shift towards clean energy. Along with a focus exclusively on renewable sources, breaking down solar, wind, and hydro contributions to Pakistan’s energy landscape.
+    <br><img src="images/dashboard1.png" alt="Dashboard 1: Renewable vs Non-Renewable Energy" width="600">
   </li>
 
   <li><strong>Dashboard 2: Solar Power Predictions</strong>
     <br>Uses the SARIMA model to predict solar power generation for the next 10 to 15 years, highlighting solar’s role in the future of Pakistan’s energy transition.
+    <br><img src="images/dashboard2.png" alt="Dashboard 2: Solar Power Predictions" width="600">
   </li>
 
   <li><strong>Dashboard 3: CO2 Insights</strong>
     <br>Illustrates how the adoption of renewable energy has impacted CO2 emissions, showing a reduction in emissions as renewable energy use has grown.
+    <br><img src="images/dashboard3.png" alt="Dashboard 3: CO2 Insights" width="600">
+  </li>
+
+  <li><strong>Dashboard 4: Energy Mix and Trends</strong>
+    <br>Shows the historical trends in Pakistan's energy production across all sources, and highlights the increasing contribution of renewable sources.
+    <br><img src="images/dashboard4.png" alt="Dashboard 4: Energy Mix and Trends" width="600">
   </li>
 </ul>
 
